@@ -8,3 +8,6 @@ g=500
 z=a+b+c+d+e+f+g
 print "The total sum is",z
 print "You have made changes"
+print "You are coming from test branch"
+print "You are very new in this branch"
+print "Hello I am in commit one?"
