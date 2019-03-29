@@ -7,3 +7,4 @@ f=30
 g=500
 z=a+b+c+d+e+f+g
 print "The total sum is",z
+print "You have made changes"
